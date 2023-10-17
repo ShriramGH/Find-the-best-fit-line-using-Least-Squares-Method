@@ -56,8 +56,6 @@ Enter a y value:2,4,6,8,9,7,5,3,1
 [1.26666667 3.13333333 5.         6.86666667 8.73333333 7.8
  5.93333333 4.06666667 2.2       ]
 ```
-
-### output
 ![image](https://github.com/ShriramGH/Find-the-best-fit-line-using-Least-Squares-Method/assets/117991122/59a03605-d1c2-4386-b059-9a46474af083)
 
 
