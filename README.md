@@ -48,6 +48,17 @@ plt.plot(x,y_pred,color='red')
 plt.show()
 ```
 
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 ```
 Enter a x value:1,3,5,7,9,8,6,4,2
